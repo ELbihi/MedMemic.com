@@ -836,7 +836,7 @@ Simulez des cas réels, testez vos conduites à tenir et entraînez-vous jusqu�
           Prêt à transformer la formation médicale ?
         </motion.h2>
         <p className="mt-4 max-w-2xl mx-auto text-lg text-black/90">
-          Rejoignez des milliers d’étudiants et de professionnels qui utilisent déjà MedMemic.
+          Rejoignez des milliers d’étudiants et de professionnels qui utilisent déjà MedSim.
         </p>
         <div className="mt-8 flex justify-center gap-6">
           <Button size="lg" className="bg-blue-600 text-white rounded-2xl px-8 py-4 text-lg font-semibold hover:bg-orange-500">
@@ -883,7 +883,7 @@ Simulez des cas réels, testez vos conduites à tenir et entraînez-vous jusqu�
 
       {/* ================= PIED DE PAGE ================= */}
       <footer className="py-10 bg-gray-900 text-gray-400 text-center">
-        <p>© 2025 MedMemic. Tous droits réservés.</p>
+        <p>© 2025 MedSim. Tous droits réservés.</p>
       </footer>
     </div>
   );

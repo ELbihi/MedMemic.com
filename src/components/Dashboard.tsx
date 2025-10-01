@@ -170,7 +170,7 @@
 //               <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center">
 //                 <Heart className="w-5 h-5 text-primary-foreground" />
 //               </div>
-//               <span className="text-xl font-bold text-foreground">MedSim</span>
+//               <span className="text-xl font-bold text-foreground">MedMemic</span>
 //             </div>
 //             <div className="flex items-center space-x-4">
 //               <Badge variant="outline" className="bg-success/10 text-success border-success/20">
@@ -549,7 +549,7 @@
 // //           <div className="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center">
 // //             <Heart className="w-5 h-5 text-white" />
 // //           </div>
-// //           <span className="text-xl font-bold text-gray-900">MedSim</span>
+// //           <span className="text-xl font-bold text-gray-900">MedMemic</span>
 // //         </div>
 // //         <nav className="flex-1 px-4 py-6 space-y-1">
 // //           {sidebarItems.map(({ label, Icon, active }) => (
@@ -848,7 +848,7 @@
 //           <div className="w-8 h-8 bg-white/20 rounded-lg flex items-center justify-center">
 //             <Heart className="w-5 h-5 text-white" />
 //           </div>
-//           <span className="text-xl font-bold">MedSim</span>
+//           <span className="text-xl font-bold">MedMemic</span>
 //         </div>
 //         <div className="flex items-center space-x-4">
 //           <Badge variant="outline" className="bg-white/20 text-white border-white/30">
