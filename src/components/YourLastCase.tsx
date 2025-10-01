@@ -117,7 +117,7 @@ useEffect(() => {
             <div className="w-10 h-10 bg-gradient-to-r from-blue-600 to-cyan-500 rounded-full flex items-center justify-center">
               <Heart className="w-5 h-5 text-white" />
             </div>
-            <span className="text-xl font-bold text-gray-900">MedSim</span>
+            <span className="text-xl font-bold text-gray-900">MedMemic</span>
           </div>
           <div className="flex items-center space-x-3">
             <Badge variant="outline" className="bg-white/30 text-gray-900 border-white/30">
