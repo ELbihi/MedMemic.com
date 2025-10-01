@@ -1262,8 +1262,8 @@ const Dashboard = ({ onStartSimulation }: DashboardProps) => {
       <header className="fixed top-0 left-0 w-full z-50 bg-white/20 backdrop-blur-md shadow-md">
         <div className="container mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-3">
-            <div className="w-10 h-10 bg-gradient-to-r from-blue-600 to-cyan-500 rounded-full flex items-center justify-center">
-              <Heart className="w-5 h-5 text-white" />
+            <div className="w-20 h-10 flex items-center justify-center">
+              <img src="/1.png" alt="" />
             </div>
             <span className="text-xl font-bold text-gray-900">MedMemic</span>
           </div>
